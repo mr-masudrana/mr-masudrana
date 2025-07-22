@@ -17,7 +17,10 @@
 
 - 📫 How to reach me: **masudrana.about@gmail.com**
 
-- 🌐 Portfolio: [masudrana.site](https://masudrana.site)
+- 🌐 Portfolio: [Masud Rana](https://mr-masudrana.github.io/Portfolio/)
+
+- 🌐 Website: [masudrana.site](https://masudrana.site)
+
 
 ---
 
