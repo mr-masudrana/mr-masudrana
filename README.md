@@ -10,17 +10,14 @@
 - 🛠️ I love building:
   - Movie Streaming Platforms  
   - Social Media Apps  
-  - Educational Websites  
+  - School Management Systems  
   - Admin Dashboards
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Firebase, GitHub, Web Hosting**
 
-- 📫 How to reach me: **masudrana.about@gmail.com**
+- 📫 Email me at: **masudrana.about@gmail.com**
 
-- 🌐 Portfolio: [Masud Rana](https://mr-masudrana.github.io/Portfolio/)
-
-- 🌐 Website: [masudrana.site](https://masudrana.site)
-
+- 🌐 Portfolio: [masudrana.site](https://masudrana.site)
 
 ---
 
@@ -31,6 +28,9 @@
   </a>
   <a href="https://linkedin.com/in/rana-mdmasud" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
+  </a>
+  <a href="https://x.com/mr-masudrana" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" height="30" width="30" />
   </a>
   <a href="mailto:masudrana.about@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="30" />
@@ -55,20 +55,36 @@
 <h3>📊 GitHub Stats:</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-masudrana&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-masudrana&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-masudrana&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-masudrana&layout=compact&theme=algolia" alt="Top Languages" />
+</p>
+
+---
+
+<h3 align="center">🔥 GitHub Contribution Streak</h3>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-masudrana&theme=algolia" alt="mr-masudrana" />
+</p>
+
+---
+
+<h3 align="center">🔥 GitHub Contribution Streak</h3>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-masudrana&theme=algolia" alt="mr-masudrana" />
 </p>
 
 ---
 
 <h3 align="center">🏆 GitHub Trophy</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mr-masudrana&theme=algolia" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mr-masudrana&theme=algolia" alt="mr-masudrana" />
 </p>
 
 ---
 
-<h3 align="center">🔥 Thank you for visiting my profile!</h3>
+<h3 align="center">🙏 Thank you for visiting my profile!</h3>
