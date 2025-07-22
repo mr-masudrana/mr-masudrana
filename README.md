@@ -58,31 +58,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mr-masudrana&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-masudrana&theme=algolia" alt="mr-masudrana" />
+</p>
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-masudrana&layout=compact&theme=algolia" alt="Top Languages" />
-</p>
-
----
-
-<h3 align="center">🔥 GitHub Contribution Streak</h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-masudrana&theme=algolia" alt="mr-masudrana" />
-</p>
-
----
-
-<h3 align="center">🔥 GitHub Contribution Streak</h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-masudrana&theme=algolia" alt="mr-masudrana" />
-</p>
-
----
-
-<h3 align="center">🏆 GitHub Trophy</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mr-masudrana&theme=algolia" alt="mr-masudrana" />
 </p>
 
 ---
